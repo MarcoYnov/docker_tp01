@@ -1,0 +1,4 @@
+node_modules/
+.git/
+.nvmrc
+README.md
